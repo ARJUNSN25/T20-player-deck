@@ -1,0 +1,6 @@
+{
+  "name": "T20 Scouting Deck",
+  "description": "20-player T20 squad selection scouting dossier with advanced career statistics, historical performance timelines, and interactive leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
